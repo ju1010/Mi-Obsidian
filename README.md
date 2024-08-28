@@ -1,4 +1,5 @@
 
+# Note de ideas para programar
 
 
 - **Un traductor que pueda self-hostearse y correr Offline**
