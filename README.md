@@ -1,7 +1,7 @@
 
 # Note de ideas para programar
 
-- **Juego de ajedrez**
+- **Juego de ajedrez** (hecho)
 Un juego de ajedrez simple nomas con JS y CSS, fue mi primero "proyecto" y ya lo termine, esta en una de mis repos.
 
 
